@@ -157,11 +157,11 @@ export default {
           title: 'Gallery',
           to: '/gallery',
         },
-        {
-          icon: 'mdi-blogger',
-          title: 'Blog',
-          to: '/blog',
-        },
+        // {
+        //   icon: 'mdi-blogger',
+        //   title: 'Blog',
+        //   to: '/blog',
+        // },
         {
           icon: 'mdi-contacts',
           title: 'Contact Us',
