@@ -164,7 +164,7 @@ export default {
         },
         {
           icon: 'mdi-contacts',
-          title: 'Contact',
+          title: 'Contact Us',
           to: '/contact',
         },
       ],
